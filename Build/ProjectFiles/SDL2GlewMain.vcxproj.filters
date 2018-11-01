@@ -9,6 +9,7 @@
   <ItemGroup>
     <ClInclude Include="..\..\Src\SDL2GlewMain\targetver.h" />
     <ClInclude Include="..\..\Src\SDL2GlewMain\stdafx.h" />
+    <ClInclude Include="..\..\Src\SDL2GlewMain\Application.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="..\..\Src\SDL2GlewMain\ReadMe.txt" />
